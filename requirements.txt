@@ -1,1 +1,7 @@
 fastapi>=0.103.1
+fastapi_amis_admin>=0.6.6
+sqlalchemy-database>=0.1.1
+fastapi-user-auth>=0.6.1
+fastapi-scheduler>=0.0.13
+fastapi-config>=0.1.2
+amis-admin-theme-editor>=0.0.3
