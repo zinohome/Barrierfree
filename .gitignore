@@ -1,0 +1,10 @@
+# ingnore .idea
+/.idea/
+
+# ingore venv
+/venv/
+
+# ingore log
+/log/
+
+/.DS_Store/
